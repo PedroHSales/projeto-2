@@ -1,6 +1,6 @@
 # 🔥 CRUD Firebase
 
-Projeto de CRUD em HTML, CSS e JavaScript com o Firebase trabalho feito em grupo para a disciplina de programação para internet caso queria ver o site acesse esse link: https://github.com/JoaoMonteiiro/projeto-2
+Projeto de CRUD em HTML, CSS e JavaScript com o Firebase trabalho feito em grupo para a disciplina de programação para internet caso queria ver o site acesse esse link: https://joaomonteiiro.github.io/projeto-2/
 
 ## 🙋‍♂️ Integrantes
 Pedro Henrique,
